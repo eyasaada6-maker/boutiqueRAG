@@ -1,0 +1,19 @@
+# Variables d'environnement
+.env
+
+# Python
+__pycache__/
+*.pyc
+.python-version
+
+# Base de données
+*.db
+
+# ChromaDB
+chroma_db/
+
+# Environnement virtuel
+.venv/
+
+# Fichiers temporaires
+*.log
